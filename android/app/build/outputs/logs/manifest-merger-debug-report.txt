@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/07bf83872bda0f363e762af0a287756d/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/b91583e67ecede837be66c14f0b2bc59/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/4e117680eda3d7381c99eb0c15a82b19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/343edf24585dfb283638091ace05d0b6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/e57d7012087856aae3357e9c37d68397/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/3bfc9cca308a86758212378d5cdfa533/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/69928194b6bddf8f2f64cd04ca0983fa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/e393912c3813b16d28177185474c8c19/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/e7d9f5268ed3e53485d9ed529611c4f4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/b55bc455500316676c0ed17208200377/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/4cbb41ed66393fe75588201bfd07f9ff/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/663ef0894fdfaaeb01321767e1d64993/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/83edb3bf9126197c77f0bb4e1b3bcee0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/83d05e850873588b75aef96ee012a992/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/7a7727dc24e0f1f2ce5bdadadfe8a82c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/4bf0e403dd0b8e1149f96de50bd44f2d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/720730943dd2627400f1d3e89759f08c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/f9d8f0c7281a3ef31e480a99d12bde05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/0475eab761be440a05d2308a58334d7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/bdffeb627490145549f81de5c5ada7e5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/3e17df992a6a8ca2352c97221b01eae6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/14043a4478d7e0807262e418169b807d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/960d1b35bff8594f5dde5b10cf8a9a88/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/55d4675d13e1f7c1a0f154b72d907493/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/c18c277c20ccc0119d35f6d7e675b10d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/67cddc30c47a7da66fb993b39e02610a/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/efd547c507372439dbcb81d17be54486/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/195989e18bf1dabae15f5e4d384a0bd5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/f9a9effbc101fcd776e75c71e47e0b43/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/e9f0929f93e96cffa259a6d6597a4614/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/2ef965d8cff267e3c255fe29b8edcb33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/66c5cef281bf45fa68aa1935ddab02fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/795316f60a244bf1f1c1227279b8e91c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/7f9d1ab6e0037463fd6f3dc17dedfce7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/58402dcc12db9810b9945bf784a143da/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/2fd8c753717f2b9f74e81635f0e27341/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/185f854d9da2c8c78e66b88c09438b67/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/07bf83872bda0f363e762af0a287756d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/07bf83872bda0f363e762af0a287756d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/4cbb41ed66393fe75588201bfd07f9ff/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/4cbb41ed66393fe75588201bfd07f9ff/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/c18c277c20ccc0119d35f6d7e675b10d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/c18c277c20ccc0119d35f6d7e675b10d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/67cddc30c47a7da66fb993b39e02610a/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/67cddc30c47a7da66fb993b39e02610a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/c18c277c20ccc0119d35f6d7e675b10d/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.loginapp.MainActivity
+ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/07bf83872bda0f363e762af0a287756d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/07bf83872bda0f363e762af0a287756d/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/b91583e67ecede837be66c14f0b2bc59/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/b91583e67ecede837be66c14f0b2bc59/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/4e117680eda3d7381c99eb0c15a82b19/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/4e117680eda3d7381c99eb0c15a82b19/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/343edf24585dfb283638091ace05d0b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/343edf24585dfb283638091ace05d0b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/e57d7012087856aae3357e9c37d68397/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/e57d7012087856aae3357e9c37d68397/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/3bfc9cca308a86758212378d5cdfa533/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/3bfc9cca308a86758212378d5cdfa533/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/69928194b6bddf8f2f64cd04ca0983fa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/69928194b6bddf8f2f64cd04ca0983fa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/e393912c3813b16d28177185474c8c19/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/e393912c3813b16d28177185474c8c19/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/e7d9f5268ed3e53485d9ed529611c4f4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/e7d9f5268ed3e53485d9ed529611c4f4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/b55bc455500316676c0ed17208200377/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/b55bc455500316676c0ed17208200377/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/4cbb41ed66393fe75588201bfd07f9ff/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/4cbb41ed66393fe75588201bfd07f9ff/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/663ef0894fdfaaeb01321767e1d64993/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/663ef0894fdfaaeb01321767e1d64993/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/83edb3bf9126197c77f0bb4e1b3bcee0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/83edb3bf9126197c77f0bb4e1b3bcee0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/83d05e850873588b75aef96ee012a992/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/83d05e850873588b75aef96ee012a992/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/7a7727dc24e0f1f2ce5bdadadfe8a82c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/7a7727dc24e0f1f2ce5bdadadfe8a82c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/4bf0e403dd0b8e1149f96de50bd44f2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/4bf0e403dd0b8e1149f96de50bd44f2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/720730943dd2627400f1d3e89759f08c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/720730943dd2627400f1d3e89759f08c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/f9d8f0c7281a3ef31e480a99d12bde05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/f9d8f0c7281a3ef31e480a99d12bde05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/0475eab761be440a05d2308a58334d7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/0475eab761be440a05d2308a58334d7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/bdffeb627490145549f81de5c5ada7e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/bdffeb627490145549f81de5c5ada7e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/3e17df992a6a8ca2352c97221b01eae6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/3e17df992a6a8ca2352c97221b01eae6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/14043a4478d7e0807262e418169b807d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/14043a4478d7e0807262e418169b807d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/960d1b35bff8594f5dde5b10cf8a9a88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/960d1b35bff8594f5dde5b10cf8a9a88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/55d4675d13e1f7c1a0f154b72d907493/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/55d4675d13e1f7c1a0f154b72d907493/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/c18c277c20ccc0119d35f6d7e675b10d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/c18c277c20ccc0119d35f6d7e675b10d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/67cddc30c47a7da66fb993b39e02610a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/67cddc30c47a7da66fb993b39e02610a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/efd547c507372439dbcb81d17be54486/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/efd547c507372439dbcb81d17be54486/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/195989e18bf1dabae15f5e4d384a0bd5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/195989e18bf1dabae15f5e4d384a0bd5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/f9a9effbc101fcd776e75c71e47e0b43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/f9a9effbc101fcd776e75c71e47e0b43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/e9f0929f93e96cffa259a6d6597a4614/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/e9f0929f93e96cffa259a6d6597a4614/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/2ef965d8cff267e3c255fe29b8edcb33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/2ef965d8cff267e3c255fe29b8edcb33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/66c5cef281bf45fa68aa1935ddab02fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/66c5cef281bf45fa68aa1935ddab02fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/795316f60a244bf1f1c1227279b8e91c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/795316f60a244bf1f1c1227279b8e91c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/7f9d1ab6e0037463fd6f3dc17dedfce7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/7f9d1ab6e0037463fd6f3dc17dedfce7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/58402dcc12db9810b9945bf784a143da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/58402dcc12db9810b9945bf784a143da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/2fd8c753717f2b9f74e81635f0e27341/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/2fd8c753717f2b9f74e81635f0e27341/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/185f854d9da2c8c78e66b88c09438b67/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/swapareanigeria/.gradle/caches/transforms-2/files-2.1/185f854d9da2c8c78e66b88c09438b67/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/swapareanigeria/Desktop/Proj/mobile/loginApp/android/app/src/debug/AndroidManifest.xml:5:22-75
